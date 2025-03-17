@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow:
+
+User-agent: Baiduspider
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: EtaoSpider
+Disallow: /
+User-agent: HuihuiSpider
+Disallow: /
+User-agent: GwdangSpider
+Disallow: /
+User-agent: WochachaSpider
+Disallow: /
+User-agent: 360Spider
+Disallow: /
+User-agent: Sogou web spider
+Disallow: /
+User-agent: Sogouspider
+Disallow: /
+User-agent: Yisouspider
+Disallow: /
+
+
+Allow: /
+sitemap: https://www.mcwslot.net/sitemap.xml
